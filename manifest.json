@@ -3,5 +3,10 @@
         "url": "https://github.com/webboyt/Velox-Modpack/",
 		"name": "Velox Modpack",
 		"id": 0
+    },
+    {
+        "url": "https://github.com/webboyt/Velox-Modpack/",
+		"name": "Velox Vanilla+ Modpack",
+		"id": 1
     }
 ]
