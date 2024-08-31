@@ -13,5 +13,10 @@
         "url": "https://github.com/webboyt/velox-1.18-modpack/",
 		"name": "Velox 1.18.2 Modpack",
 		"id": 1
+    },
+    {
+        "url": "https://github.com/webboyt/Velox-1.19.2-Modpack",
+		"name": "Velox 1.19.2 Modpack",
+		"id": 2
     }
 ]
