@@ -23,5 +23,10 @@
         "url": "https://github.com/webboyt/Nips-Modpack/",
 		"name": "Nips Modpack",
 		"id": 3
+    },
+    {
+        "url": "https://github.com/webboyt/Velox-Pokemon-Modpack/",
+		"name": "Velox Pokemon Modpack",
+		"id": 4
     }
 ]
