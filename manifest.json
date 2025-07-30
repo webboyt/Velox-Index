@@ -12,21 +12,26 @@
     {
         "url": "https://github.com/webboyt/velox-1.18-modpack/",
 		"name": "Velox 1.18.2 Modpack",
-		"id": 1
+		"id": 2
     },
     {
         "url": "https://github.com/webboyt/Velox-1.19.2-Modpack/",
 		"name": "Velox 1.19.2 Modpack",
-		"id": 2
+		"id": 3
     },
     {
         "url": "https://github.com/webboyt/Nips-Modpack/",
 		"name": "Nips Modpack",
-		"id": 3
+		"id": 4
     },
     {
         "url": "https://github.com/webboyt/Velox-Pokemon-Modpack/",
 		"name": "Velox Pokemon Modpack",
-		"id": 4
+		"id": 5
+    },
+    {
+        "url": "https://github.com/SimpsonGames/Velox-Vintage-Vanilla-Modpack/",
+        "name": "Vintage Vanilla Modpack",
+        "id": 6
     }
 ]
